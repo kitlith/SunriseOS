@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_",""],["_",""]],"struct":[["GPTHeader","The header of a GPT table."],["GPTPartitionEntry","A GPT partition entry."],["RawUUID","A raw uuid representation."]]});
